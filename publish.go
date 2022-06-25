@@ -1,0 +1,5 @@
+package hardcandy
+
+func CreateURL() {
+
+}

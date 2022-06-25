@@ -1,0 +1,17 @@
+{
+  "image": "https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-1.2.1\u0026ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D\u0026w=1000\u0026q=80",
+  "description": "What a cute kitty",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-1.2.1\u0026ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D\u0026w=1000\u0026q=80",
+        "type": "image/jpg"
+      }
+    ]
+  },
+  "attributes": [
+    { "trait_type": "Silly Goose", "value": "You KNOW IT" },
+    { "trait_type": "Piggly Wiggly", "value": "DUH!!!" }
+  ]
+}
